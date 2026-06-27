@@ -387,6 +387,7 @@ Active contributor and supporter of the open source community. Forked & starred 
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
+│   🌐  BLOG:      kingtechies.github.io — 60 technical articles               │
 │   📧  EMAIL:     mainrefferal@gmail.com                      │
 │   🐙  GITHUB:    github.com/kingtechies                       │
 │   📍  LOCATION:  Lagos, Nigeria (GMT+1)                       │
