@@ -61,6 +61,34 @@ He operates at the intersection of **systems engineering, blockchain architectur
 
 ---
 
+## 🎯 AVAILABLE FOR
+
+| Role | Type |
+|------|------|
+| **Co-Founder (Technical)** | Equity + Build — I bring the tech, you bring the vision |
+| **CTO / VP of Engineering** | Full-time / Fractional — Remote |
+| **Startup Advisory** | Technical strategy, architecture, hiring |
+| **Contract Development** | Project-based — Flutter, React, Node.js, Python, Rust |
+| **Remote Engineering Roles** | Senior / Staff / Principal — Full-Stack, Blockchain, Security |
+
+---
+
+## 🎯 WHO I HELP
+
+I help **startups, founders, and businesses** build production-grade software that scales:
+
+| What I Build | Examples |
+|-------------|----------|
+| **Mobile Apps** | Cross-platform Flutter apps — 50K+ users, offline-first, real-time sync |
+| **SaaS Platforms** | Multi-tenant dashboards, subscription billing, API-first architecture |
+| **AI Applications** | LLM-powered agents, RAG pipelines, fine-tuned models, vector search |
+| **Internal Business Systems** | ERP, CRM, inventory, fraud detection, workflow automation |
+| **Fintech Products** | Banking apps, payment gateways, trading platforms, wallets |
+| **MVPs** | 0→1 in weeks, not months — production-ready from day one |
+| **Scalable Backend Infrastructure** | Self-hosted VPS, Docker, Kubernetes, 100K+ RPM gateways |
+
+---
+
 ## 💼 PROFESSIONAL EXPERIENCE
 
 ### 🏢 Kelthos-X — *Founder & Chief Architect*
