@@ -360,6 +360,28 @@ LLM Fine-tuning     ████████████░░░  Advanced
 
 ---
 
+---
+
+## 📰 PUBLICATIONS & ARTICLES
+
+| # | Article | Platform |
+|---|---------|----------|
+| 1 | [How I Built 50+ Production Apps as a Self-Taught Engineer in Nigeria](https://gist.github.com/kingtechies/528723dabbd2faf3fa5c92aa9edbf02e) | GitHub Gist |
+| 2 | [Flutter vs React Native: Why I Switched and Never Looked Back](https://gist.github.com/kingtechies/e172db897fa18f3eac531647e36fe6fe) | GitHub Gist |
+| 3 | [Self-Hosting at Scale: Why I Ditched AWS and Saved 90%](https://gist.github.com/kingtechies/0095c45760ee0599e786744a72cc743b) | GitHub Gist |
+| 4 | [Bug Hunting in Web3: How I Found 100+ Vulnerabilities in DeFi Protocols](https://gist.github.com/kingtechies/abc288f22cea90b0affd55395e94034b) | GitHub Gist |
+| 5 | [From Nigeria to Global Tech: A Full-Stack Engineer's Guide to Remote Work](https://gist.github.com/kingtechies/5e7a5e4f139418c446a29e9eb9206506) | GitHub Gist |
+
+---
+
+## 🏆 OPEN SOURCE ENGAGEMENT
+
+Active contributor and supporter of the open source community. Forked & starred 10+ top repositories including:
+
+[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) · [Public APIs](https://github.com/public-apis/public-apis) · [System Design Primer](https://github.com/donnemartin/system-design-primer) · [Coding Interview University](https://github.com/jwasham/coding-interview-university) · [Awesome Python](https://github.com/vinta/awesome-python) · [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) · [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) · [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+
+---
+
 ## 📞 CONTACT & HIRING
 
 ```
