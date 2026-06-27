@@ -55,7 +55,7 @@ He operates at the intersection of **systems engineering, blockchain architectur
 | **Security Research** | Vulnerability discovery, smart contract auditing, penetration testing, exploit development |
 | **System Architecture** | Microservices, event-driven systems, CQRS, message queues, API gateways |
 | **AI/ML Engineering** | LLM fine-tuning, RAG pipelines, vector databases, autonomous agent systems |
-| **DevOps & Cloud** | AWS, GCP, Kubernetes, Docker, Terraform, CI/CD, zero-downtime deployments |
+| **DevOps & Self-Hosting** | VPS, bare metal, Docker, Kubernetes, Nginx, CI/CD, zero-downtime — king of self-hosting |
 | **Bug Bounty Hunting** | 100+ vulnerabilities discovered across Web2 and Web3 platforms |
 | **Technical Leadership** | Team building, code review, architecture decisions, mentorship |
 
@@ -71,7 +71,7 @@ Kelthos-X is an autonomous security and DeFi ecosystem combining AI agents, bloc
 - Architected an **autonomous AI agent system** for security monitoring, DeFi automation, and infrastructure management
 - Built **cross-chain arbitrage engine** extracting MEV across 12 blockchain networks
 - Developed **smart contract vulnerability scanner** using formal verification and symbolic execution
-- Deployed infrastructure on bare-metal VPS with **99.9% uptime** using Docker, Nginx, and custom monitoring
+- Deployed entirely self-hosted infrastructure on bare-metal VPS with **99.9% uptime** — Docker, Nginx, custom monitoring, zero cloud dependencies
 - Managing end-to-end operations: development, security, deployments, and business strategy
 
 ### 🏢 Freelance & Contract Engineering
@@ -80,7 +80,7 @@ Kelthos-X is an autonomous security and DeFi ecosystem combining AI agents, bloc
 - Shipped **50+ applications** for clients across fintech, e-commerce, healthcare, and Web3
 - Built **high-throughput API gateway** handling 100K+ RPM for a Nigerian fintech company
 - Developed **real-time fraud detection system** processing 1M+ transactions daily
-- Created **mobile banking application** serving 50K+ users with React Native and Node.js backend
+- **Mobile banking application** serving 50K+ users with Flutter and Node.js backend
 - Audited **20+ smart contracts** identifying critical vulnerabilities before mainnet deployment
 - Led teams of 3-8 engineers across multiple time zones
 
@@ -210,16 +210,16 @@ Elasticsearch       ████████████░░░  Advanced
 Neo4j               ██████████░░░░░  Proficient
 ```
 
-### DevOps & Cloud
+### DevOps & Self-Hosting
 ```
 Docker              ████████████████  Expert
+VPS / Bare Metal    ████████████████  Expert — King of Self-Hosting
 Kubernetes          ██████████████░░  Advanced
-AWS                 ████████████████  Expert
-GCP                 ██████████████░░  Advanced
-Terraform           ██████████████░░  Advanced
-Ansible             ████████████░░░  Advanced
-CI/CD (GitHub Actions, GitLab) ████████████████  Expert
 Nginx / Traefik     ████████████████  Expert
+CI/CD (GitHub Actions, GitLab) ████████████████  Expert
+Terraform           ████████████░░░  Advanced
+Ansible             ████████████░░░  Advanced
+Linux (Ubuntu/Debian) ████████████████  Expert
 ```
 
 ### Blockchain
@@ -314,10 +314,10 @@ LLM Fine-tuning     ████████████░░░  Advanced
 - Served 500K+ end users across mobile and web
 
 ### 📱 Mobile Banking Application
-*React Native · Node.js · PostgreSQL · AWS*
+*Flutter · Node.js · PostgreSQL · Self-Hosted VPS*
 - Full-featured banking app: transfers, bill payments, airtime, loans
 - 50K+ active users, 1M+ daily transactions
-- Offline-first architecture with real-time sync
+- Built with Flutter — offline-first architecture with real-time sync
 - Biometric authentication and military-grade encryption
 
 ---
@@ -339,7 +339,6 @@ LLM Fine-tuning     ████████████░░░  Advanced
 │                                                              │
 │   📧  EMAIL:     mainrefferal@gmail.com                      │
 │   🐙  GITHUB:    github.com/kingtechies                       │
-│   🔐  WEBSITE:   kelthos-x.cfd                                │
 │   📍  LOCATION:  Lagos, Nigeria (GMT+1)                       │
 │   🌍  REMOTE:    Available worldwide                          │
 │                                                              │
@@ -362,7 +361,7 @@ LLM Fine-tuning     ████████████░░░  Advanced
 
 *I build systems that scale. I break things that shouldn't break. I secure what others can't protect. If you need an engineer who operates at the edge of what's possible — you've found him.*
 
-**[📧 mainrefferal@gmail.com](mailto:mainrefferal@gmail.com)** &nbsp;|&nbsp; **[🐙 github.com/kingtechies](https://github.com/kingtechies)** &nbsp;|&nbsp; **[🔐 kelthos-x.cfd](https://kelthos-x.cfd)**
+**[📧 mainrefferal@gmail.com](mailto:mainrefferal@gmail.com)** &nbsp;|&nbsp; **[🐙 github.com/kingtechies](https://github.com/kingtechies)**
 
 ---
 
